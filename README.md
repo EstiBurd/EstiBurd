@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/front-end-development-concept-developers-create-web-interface-coding-programming-computer-professional-expert-html-data-172748536.jpg)](https://rishavchanda.io)
+[![MasterHead](https://portal.zent.edu.vn/storage/posts/images/1574736031Front-End-Web-Development.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Esti Burd</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
